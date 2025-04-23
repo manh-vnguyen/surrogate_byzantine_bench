@@ -1,12 +1,3 @@
-*
-!plotting/
-!plotting/**
-!run_exps.py
-!gen_exps_ann.py
-!gen_exps_snn.py
-!__*.py
-!.gitignore
-
 # Python
 __pycache__/
 *.py[cod]
