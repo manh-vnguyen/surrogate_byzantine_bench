@@ -1,4 +1,4 @@
-# Federated Learning with Spiking Neural Networks: Benchmarking the Byzantine-Robustness of Uniquely-Shaped Surrogate Gradients
+# FL-SNNs: Benchmarking the Byzantine-Robustness of Uniquely-Shaped Surrogate Gradients
 
 This repository contains the implementation and benchmarking code for our research on Byzantine-robust federated learning using spiking neural networks (SNNs) with uniquely-shaped surrogate gradients.
 
